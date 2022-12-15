@@ -1,4 +1,4 @@
-# Parser_Book24
+# Parser Koleukh
  Парсер сайта book24.ru на основе вреймворка Scrapy
 
 ## Требования:

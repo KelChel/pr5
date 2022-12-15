@@ -4,7 +4,7 @@
 # , 'fiction', 'horrors', 'fantasy', 'romance', 'action']
 GENRES = ['detectives']
 
-# Name of a file containing parsing results (books by default)
+# Name of a file containing parsing results (books by default) 
 OUTPUT_FILE_NAME = 'books'
 
 # Format of a file containing parsing results (json by default)
