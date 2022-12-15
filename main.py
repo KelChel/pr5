@@ -12,3 +12,4 @@ if __name__ == '__main__':
     process = CrawlerProcess(settings)
     process.crawl(B24Spider)
     process.start()
+    
